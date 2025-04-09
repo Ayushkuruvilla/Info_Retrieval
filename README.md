@@ -80,6 +80,11 @@ To reproduce the experiments:
 2. Ensure all datasets and dependencies are correctly configured.
 3. Use the provided visualizations and metrics in the Excel file to compare methods.
 
+Alternatively, can be run from kaggle
+https://www.kaggle.com/code/ayushkuruvilla/ir-project
+https://www.kaggle.com/code/aditirawat02/ir-project
+https://www.kaggle.com/code/apostu/query-expansion-reproducibility-package
+https://www.kaggle.com/code/benedekszkcs/ir-project-2
 ---
 
 ## 📊 Summary
